@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hadi\\training\\training\\training.csproj": {}
+    "C:\\Users\\Armin\\Source\\Repos\\some-question\\training\\training\\training.csproj": {}
   },
   "projects": {
-    "D:\\Hadi\\training\\training\\training.csproj": {
+    "C:\\Users\\Armin\\Source\\Repos\\some-question\\training\\training\\training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hadi\\training\\training\\training.csproj",
+        "projectUniqueName": "C:\\Users\\Armin\\Source\\Repos\\some-question\\training\\training\\training.csproj",
         "projectName": "training",
-        "projectPath": "D:\\Hadi\\training\\training\\training.csproj",
+        "projectPath": "C:\\Users\\Armin\\Source\\Repos\\some-question\\training\\training\\training.csproj",
         "packagesPath": "C:\\Users\\Armin\\.nuget\\packages\\",
-        "outputPath": "D:\\Hadi\\training\\training\\obj\\",
+        "outputPath": "C:\\Users\\Armin\\Source\\Repos\\some-question\\training\\training\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Armin\\AppData\\Roaming\\NuGet\\NuGet.Config",

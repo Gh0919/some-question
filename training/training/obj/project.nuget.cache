@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ/60dJ5eW680SkxNfEGAVhDO3QcQWh0ZBgEP3OHeORXzFHFIEs/rVyKs+0lviqorkSdOEXG1EdO69nSA//M5Q==",
+  "dgSpecHash": "dkmlO7fXGK+1cbf94/F1VUYV2raZSrG3c7Kx5FPDC5sknZhyuicE2AAR4MRB3XKsRUsNs9QzWADRH07PhAgu1w==",
   "success": true,
-  "projectFilePath": "D:\\Hadi\\training\\training\\training.csproj",
+  "projectFilePath": "C:\\Users\\Armin\\Source\\Repos\\some-question\\training\\training\\training.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Armin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"

@@ -59,6 +59,7 @@ namespace training
                 }
             }
             Console.Write($"Sum : {sum} \nAverage : {sum / 4} \nProduct : {multi} \nMAX : {max} \nMIN : {min}");
+            ///////////////////////////////////
 
         }
     }
