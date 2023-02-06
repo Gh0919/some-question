@@ -1,0 +1,14 @@
+D:\Hadi\training\training\bin\Debug\netcoreapp3.1\training.exe
+D:\Hadi\training\training\bin\Debug\netcoreapp3.1\training.deps.json
+D:\Hadi\training\training\bin\Debug\netcoreapp3.1\training.runtimeconfig.json
+D:\Hadi\training\training\bin\Debug\netcoreapp3.1\training.runtimeconfig.dev.json
+D:\Hadi\training\training\bin\Debug\netcoreapp3.1\training.dll
+D:\Hadi\training\training\bin\Debug\netcoreapp3.1\training.pdb
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.csproj.AssemblyReference.cache
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.AssemblyInfoInputs.cache
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.AssemblyInfo.cs
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.csproj.CoreCompileInputs.cache
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.dll
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.pdb
+D:\Hadi\training\training\obj\Debug\netcoreapp3.1\training.genruntimeconfig.cache
